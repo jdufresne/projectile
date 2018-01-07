@@ -385,6 +385,7 @@ containing a root file."
     "_FOSSIL_"
     ".bzr"
     "_darcs"
+    "__pycache__"
     ".tox"
     ".svn"
     ".stack-work")
